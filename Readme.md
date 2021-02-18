@@ -1,1 +1,1 @@
-how to make database
+how to plot dynamic graphs on html using python
